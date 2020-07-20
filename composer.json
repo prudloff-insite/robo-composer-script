@@ -1,7 +1,7 @@
 {
   "name": "insite/robo-composer-script",
   "description": "Robo task that runs custom Composer scripts",
-  "license": "proprietary",
+  "license": "GPL-2.0-or-later",
   "config": {
     "platform": {
       "php": "7.1.3"
