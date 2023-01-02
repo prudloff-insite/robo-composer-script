@@ -20,6 +20,7 @@ abstract class BaseTask extends Base {
    * @param string $value Option value
    *
    * @return \RoboComposerScript\BaseTask
+   * @noinspection PhpUnused
    */
   public function scriptOption($option, $value = NULL) {
     $this->scriptOptions[$option] = $value;
