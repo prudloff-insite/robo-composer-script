@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e63ea5e0c20da02c0c3f332b394b5240",
+    "content-hash": "15f13279eb5b1224af1efcfd6e733733",
     "packages": [
         {
             "name": "composer/semver",
@@ -316,16 +316,16 @@
         },
         {
             "name": "consolidation/robo",
-            "version": "3.0.10",
+            "version": "4.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/robo.git",
-                "reference": "206bbe23b34081a36bfefc4de2abbc1abcd29ef4"
+                "reference": "ccf80963abf11bdb8e90659aa99a7449b21e9452"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/robo/zipball/206bbe23b34081a36bfefc4de2abbc1abcd29ef4",
-                "reference": "206bbe23b34081a36bfefc4de2abbc1abcd29ef4",
+                "url": "https://api.github.com/repos/consolidation/robo/zipball/ccf80963abf11bdb8e90659aa99a7449b21e9452",
+                "reference": "ccf80963abf11bdb8e90659aa99a7449b21e9452",
                 "shasum": ""
             },
             "require": {
@@ -409,9 +409,9 @@
             "description": "Modern task runner",
             "support": {
                 "issues": "https://github.com/consolidation/robo/issues",
-                "source": "https://github.com/consolidation/robo/tree/3.0.10"
+                "source": "https://github.com/consolidation/robo/tree/4.0.2"
             },
-            "time": "2022-02-21T17:19:14+00:00"
+            "time": "2022-04-21T09:29:58+00:00"
         },
         {
             "name": "consolidation/self-update",

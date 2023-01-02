@@ -13,6 +13,6 @@
     }
   },
   "require": {
-    "consolidation/robo": "^1 || ^2 || ^3"
+    "consolidation/robo": "^4.0"
   }
 }
