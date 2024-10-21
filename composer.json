@@ -14,5 +14,8 @@
   },
   "require": {
     "consolidation/robo": "^4.0"
+  },
+  "scripts": {
+    "test": "echo 'Script called successfully'"
   }
 }
